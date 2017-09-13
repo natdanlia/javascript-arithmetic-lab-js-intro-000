@@ -1,1 +1,3 @@
-kjuhiuh
+function add(a,b) {
+  return a + b
+}
